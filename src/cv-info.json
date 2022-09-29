@@ -1,0 +1,40 @@
+{
+  "bars": [1, 2, 3, 4, 5, 6],
+  "cv": [
+    {
+      "topic": "Online courses",
+      "text": "Here is an overview of the courses i have taken",
+      "name": [
+        "Master javascript animations with greensock",
+        "The Complete 2022 Web Development Bootcamp",
+        "The Complete JavaScript Course 2022: from Zero to expert!",
+        "Rigging and animating in adobe animate",
+        "Creating animation characters in procreate"
+      ],
+      "numText": ["4 hours", "65 hours", "69 hours", "3 hours", "6 hours"],
+      "procentages": [4, 30, 30, 6, 10]
+    },
+
+    {
+      "topic": "Education",
+      "text": "Here is an overview of the school i have attendet",
+      "name": [
+        "Viden Djurs - Webudvikler hovedeforløb",
+        "Århus tech - Webudvikler grundforløb ",
+        "Buisness Acadamy Aarhus - Mutimediedesigner",
+        "Århus hf og vuc - 2 årig Hf",
+        ""
+      ],
+      "numText": ["3 months", "6 months", "6 months", "2 years", ""],
+      "procentages": [5, 10, 10, 30, 0]
+    },
+
+    {
+      "topic": "Skills",
+      "text": "Here is an overview of my skills",
+      "name": ["Html", "css", "Wordpress", "Bootstrap", "Vanilla JavaScript"],
+      "numText": ["", "", "", "", ""],
+      "procentages": [30, 30, 20, 10, 20]
+    }
+  ]
+}

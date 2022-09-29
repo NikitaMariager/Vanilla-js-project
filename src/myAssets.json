@@ -1,0 +1,52 @@
+{
+  "Sound": [
+    "../assets/sound/welcome.mp3",
+    "../assets/sound/knock.mp3",
+    "../assets/sound/dog-bark.mp3",
+    "../assets/sound/outside.mp3"
+  ],
+
+  "textWelcome": [
+    "Welcome",
+    "Come closer",
+    "Hello my name is Nikita",
+    "Keep scrolling and have a look around"
+  ],
+
+  "textAbout": ["Wanna pick my brain?"],
+
+  "imgAbout": [
+    "./assets/images/topofhead.png",
+    "./assets/images/brian.png",
+    "./assets/images/splash.png",
+    "./assets/images/headbottom,.png"
+  ],
+
+  "textPrivate": [
+    "Wanna know more about my personal life?",
+    "want to transform to reality? (click me)",
+    "Try to knock on my door to learn more about me",
+    "I have 4 dogs who will bark at all hours of the day ",
+    "I live here in Aarhus with my boyfriend."
+  ],
+
+  "videoPrivate": ["./assets/myvideo.mp4"],
+
+  "imgPrivate": ["./assets/images/me.png"],
+
+  "contactText": ["You meet me, should i meet you?"],
+
+  "SoMe": [
+    "",
+    "./assets/images/github.png",
+    "./assets/images/linkedin.png",
+    "./assets/images/mail.png"
+  ],
+
+  "soMeLink": [
+    "",
+    "https://github.com/NikitaMariager",
+    "https://www.linkedin.com/in/nikita-mariager-50b8b124a/",
+    "mailto: nikitamariager@gmail.com"
+  ]
+}
